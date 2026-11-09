@@ -6,8 +6,6 @@ SmartDeploy is a full-stack DevOps project demonstrating an end-to-end CI/CD pip
 
 It showcases how to build, deploy, and manage a containerized application on a VPS using modern DevOps tools.
 
-Live Demo: https://devops.szewczyk.cloud/
-
 ---
 
 ## Features
